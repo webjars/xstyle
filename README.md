@@ -1,2 +1,2 @@
-# xstyle-webjar
-The WebJar for xstyle
+# xstyle WebJar
+More info: http://webjars.org
