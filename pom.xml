@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>xstyle</artifactId>
-    <version>0.3.0-SNAPSHOT</version>
+    <version>0.3.0</version>
     <name>xstyle (WebJar)</name>
     <description>WebJar for xstyle</description>
     <url>http://webjars.org</url>
@@ -49,7 +49,7 @@
         <url>http://github.com/dellekappa/xstyle-webjar</url>
         <connection>scm:git:https://github.com/dellekappa/xstyle-webjar.git</connection>
         <developerConnection>scm:git:https://github.com/dellekappa/xstyle-webjar.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>xstyle-0.3.0</tag>
     </scm>
     
     <distributionManagement>
