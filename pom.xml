@@ -51,6 +51,23 @@
         <tag>HEAD</tag>
     </scm>
     
+    <distributionManagement>
+        <repository>
+            <id>scm.codin.it</id>
+            <name>Internal Releases</name>
+            <url>https://scm.codin.it/mvn/content/repositories/releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>scm.codin.it</id>
+            <name>Internal Snapshots</name>
+            <url>https://scm.codin.it/mvn/content/repositories/snapshots/</url>
+        </snapshotRepository>
+        <site>
+            <id>scm.codin.it</id>
+            <url>dav:https://scm.codin.it/mvn/content/sites/site/</url>
+        </site>
+    </distributionManagement>
+    
     <build>
         <plugins>
             <plugin>
